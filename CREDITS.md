@@ -24,3 +24,8 @@ http://creativecommons.org/licenses/by/4.0/
 "Le Grand Chase" Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 4.0 License
 http://creativecommons.org/licenses/by/4.0/
+
+"TeaScroll Clubhouse - Wall Scroll Prop" ( sketchfab.com )
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
